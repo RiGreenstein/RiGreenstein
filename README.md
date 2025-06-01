@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Riley Greenstein
 
-I'm a high school student in San Francisco and the soon-to-be founder of **The AI Coding Club** at Lowell High School. I love computer science, especially where it overlaps with artificial intelligence. I love using tools like ChatGPT and GitHub Copilot to build smarter and faster. I believe this type of assisted programming is the future.
+I'm a high school student in San Francisco and the soon-to-be founder of **The AI Coding Club** at Lowell High School. I love computer science, especially where it overlaps with artificial intelligence. I use Tools like Qodo and GitHub Copilot to help me code more efficiently. I believe this type of assisted programming is the future.
 
 ---
 
