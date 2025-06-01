@@ -28,7 +28,7 @@ I'm a high school student in San Francisco and the soon-to-be founder of **The A
 
 If you're part of a company working on AI, dev tools, or education, and want to help students get hands-on with this tech, feel free to reach out (rileygreenstein3@gmail.com). We're especially looking for:
 
-- free licenses (e.g., copilot, api credits)
+- free licenses for our members (e.g., copilot, api credits)
 - guest speakers or mentors
 - internships/learning opportunities
 
