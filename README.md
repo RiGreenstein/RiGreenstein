@@ -32,4 +32,4 @@ If you're part of a company working on AI, dev tools, or education, and want to 
 - guest speakers or mentors
 - internships/learning opportunities
 
-Thank you for reading!
+Thank you for reading this!
