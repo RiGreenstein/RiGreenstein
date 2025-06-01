@@ -6,7 +6,7 @@ I'm a high school student in San Francisco and the founder of **The AI Coding Cl
 
 ## 🤖 About the club
 
-**AI Coding Club** is a student-led group focused on using AI to boost how we learn and code. We run weekly sessions where we:
+**The AI Coding Club** is a student-led group focused on using AI to boost how we learn and code. We run weekly sessions where we:
 
 - Explore tools like ChatGPT, Copilot, BubbleAI
 - Build coding projects with the help of AI  
